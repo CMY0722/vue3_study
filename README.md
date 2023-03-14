@@ -6,7 +6,7 @@
 - 将项目推送到github
   - git init
   - git add .
-  - git add .
+  - git commit -m "init"
   - git push origin master
 - 发布文档: npm run doc:deploy
 - 访问在线文档: https://24kcs.github.io/xxx_ts_study/ (可能要等待一定的时间)
